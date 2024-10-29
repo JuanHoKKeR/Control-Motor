@@ -1,3 +1,15 @@
+/*
+ * Control de Posición
+ * Autor: Juan David Cruz Useche
+ * Descripción: Este código permite controlar la posición de un motor DC con un encoder cuadraturo.
+ * 
+ * Componentes:
+ * - Arduino UNO
+ * - Motor DC
+ * - Encoder cuadraturo
+ * 
+ * Licencia: Este código es de libre uso y distribución bajo la licencia MIT (modificar según sea necesario).
+ */
 #include <PinChangeInterrupt.h>
 #include <PinChangeInterruptBoards.h>
 #include <PinChangeInterruptPins.h>
